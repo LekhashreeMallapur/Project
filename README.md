@@ -19,3 +19,11 @@ lekhashree.mallapur@WFX-LAP-1158 ~ % git config --list
 
 remote to local (clone)
 
+lekhashree.mallapur@WFX-LAP-1158 Learning % git clone https://github.com/LekhashreeMallapur/Project.git
+Cloning into 'Project'...
+lekhashree.mallapur@WFX-LAP-1158 Learning % cd Project 
+lekhashree.mallapur@WFX-LAP-1158 Project % ls
+README.md
+lekhashree.mallapur@WFX-LAP-1158 Project % ls -a
+.               ..              .git            README.md
+lekhashree.mallapur@WFX-LAP-1158 Project % 
